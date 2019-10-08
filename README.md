@@ -1,5 +1,6 @@
 ## istio-micro
 [![Build Status](https://travis-ci.org/xiaomeng79/istio-micro.svg?branch=master)](https://travis-ci.org/xiaomeng79/istio-micro) [![codecov](https://codecov.io/gh/xiaomeng79/istio-micro/branch/master/graph/badge.svg)](https://codecov.io/gh/xiaomeng79/istio-micro)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fxiaomeng79%2Fistio-micro.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fxiaomeng79%2Fistio-micro?ref=badge_shield)
 
 
 #### 使用go-micro构建微服务示例请到一下仓库
@@ -283,3 +284,7 @@ kubectl apply -f deployments/k8s/srv_socket/dev.yaml
 - 完善istio其他配置文件
 
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fxiaomeng79%2Fistio-micro.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fxiaomeng79%2Fistio-micro?ref=badge_large)
